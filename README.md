@@ -1,3 +1,6 @@
+DATASET USED - 375-V1 - https://www.kaggle.com/datasets/d07028a5f290c1ed2f58b48beaaaf50fa8577e409d4d1b7bb27fe40bece9d2cf
+KAGGLE NOTEBOOK - https://www.kaggle.com/code/prachi232005/notebook0b309e84c3
+
 # Turf Detection — UNet + MobileSAM Combined (375v1 dataset) — Local Setup
 
 One notebook, three parts, run top to bottom against the `375v1` dataset
